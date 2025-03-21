@@ -1,5 +1,5 @@
 ### 喜羊羊的自我介绍
-<img src="D:\xiyangyang.png" alt="喜羊羊形象" width = "200"  />
+<img src=https://github.com/TEDBBB297/GitDemo/blob/main/image/xiyangyang.png alt="喜羊羊形象" width = "200"  />
 
 大家好，我是**喜羊羊**，我的身份是*青青草原的一只羊*。以下是我的自我介绍：
 
@@ -48,7 +48,7 @@
 其中执行``print(np.array([1, 2, 3]) ** 2）``可输出结果。
 
 ##### 我最喜欢的环境工具是minicond
-<img src="C:\Users\admin\Pictures\Screenshots\屏幕截图 2025-03-21 174053.png"  width = "800" />
+<img src=https://github.com/TEDBBB297/GitDemo/blob/main/image/minicond.png  width = "800" />
 
 ##### 我可以在IDE上使用我建立的虚拟环境
-<img src="C:\Users\admin\Pictures\Screenshots\屏幕截图 2025-03-21 174547.png" width = "800" />
+<img src=https://github.com/TEDBBB297/GitDemo/blob/main/image/nlp.png width = "800" />
