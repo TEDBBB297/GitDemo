@@ -1,0 +1,2 @@
+# bayes-mails-classify-master
+This is a demo of naive Bayesian text classification. classify.py add model evaluation metrics.py sample balancing treatment.py<img src=https://github.com/TEDBBB297/GitDemo/blob/main/test4/classify.png  width = "800" /><img src=https://github.com/TEDBBB297/GitDemo/blob/main/test4/add%20model%20evaluation%20metrics.png  width = "800" /> <img src=https://github.com/TEDBBB297/GitDemo/blob/main/test4/sample%20balancing%20treatment.png  width = "800" />
